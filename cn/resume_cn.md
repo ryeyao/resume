@@ -50,7 +50,7 @@ Java - JavaScript - Git - Python - Linux C/C++
 * 研一在读期间课程项目
     - 机器学习——自然语言处理 (Java)：最高分
     - Internet 高级编程 (Linux C/C++)：最高分
-    - Nachos 高级操作系统 (Linux C/C++)：Top 1%
+    - Nachos 高级操作系统 (Linux C/C++)：Top 5%
     - 软件实现技术——微软 Azure 合作课程 (C# .NET)：最佳项目、最佳团队
 * 社会实践
     - 组队参加信息工程研究所 “第一届信息安全攻防大赛” ，作为队长带队获得第五名（共17支队伍）
